@@ -8,3 +8,4 @@ A collection of my Python projects, certification work, and experimental scripts
 ## 🗄️ Data Structures & Algorithms
 * **[Hash Table Implementation](./python-playground/hash-table/)** - A custom hash table featuring a Unicode-based hash function and collision resolution logic.
 * **[Nth Fibonacci Calculator](./python-playground/fibonacci-calculator/)** - An iterative algorithm using Dynamic Programming to compute sequence values with O(n) time complexity.
+* **[Tower of Hanoi Solver](./python-playground/hanoi-solver/)** - A recursive state-tracking algorithm that provides a step-by-step visualization of the Hanoi puzzle solution.
